@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="my_love_text">I Lov You</string>
+    <string name="my_best_text" />
+    <string name="link_text">This is <a href="http://www.android4beginners.com">a link</a> in a text</string>
+    <string name="hii">hii</string>
+    <string name="hiiii">hiiii</string>
+    <string name="Snackbar_Msg">Hee welcome to snackbar!!</string>
+</resources>
